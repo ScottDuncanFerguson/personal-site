@@ -1,0 +1,1 @@
+(self.webpackChunkts_react_webpack=self.webpackChunkts_react_webpack||[]).push([[822],{76230:e=>{"use strict";e.exports=JSON.parse('{"USERNAME":"用户名","PASSWORD":"密码","LOGIN":"登录"}')}}]);
