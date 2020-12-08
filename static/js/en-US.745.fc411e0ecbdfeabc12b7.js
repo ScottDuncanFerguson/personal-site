@@ -1,1 +1,0 @@
-(self.webpackChunkts_react_webpack=self.webpackChunkts_react_webpack||[]).push([[745],{5157:e=>{"use strict";e.exports=JSON.parse('{"USERNAME":"username","PASSWORD":"password","LOGIN":"Login"}')}}]);
