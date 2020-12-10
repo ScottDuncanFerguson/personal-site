@@ -1,1 +1,0 @@
-(self.webpackChunkscott_personal_site=self.webpackChunkscott_personal_site||[]).push([[745],{5157:s=>{"use strict";s.exports=JSON.parse('{"USERNAME":"username","PASSWORD":"password","LOGIN":"Login"}')}}]);

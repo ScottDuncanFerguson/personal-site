@@ -1,0 +1,105 @@
+{
+	"staff": [
+		{
+			"_id": "1",
+			"img": "/static/img/thumb_buzzy.jpg",
+			"name": "Buzzy",
+			"title": "Lady of the Bug",
+			"hireDate": "2020/11/01",
+			"jobHistory": "Came in from the garden, riding a sunflower.",
+			"description": "Now we have a roommate"
+		},
+		{
+			"_id": "2",
+			"img": "/static/img/thumb_casy-jones.jpg",
+			"name": "Casy Jones",
+			"title": "",
+			"description": ""
+		},
+		{
+			"_id": "3",
+			"img": "/static/img/thumb_coilly(willy).jpg",
+			"name": "Coilly (Willy)",
+			"title": "",
+			"description": ""
+		},
+		{
+			"_id": "4",
+			"img": "/static/img/thumb_ginda.jpg",
+			"name": "Ginda",
+			"title": "",
+			"description": ""
+		},
+		{
+			"_id": "5",
+			"img": "/static/img/thumb_glowla.jpg",
+			"name": "Glowla",
+			"title": "",
+			"description": ""
+		},
+		{
+			"_id": "6",
+			"img": "/static/img/thumb_hissy.jpg",
+			"name": "Hissy",
+			"title": "",
+			"description": ""
+		},
+		{
+			"_id": "7",
+			"img": "/static/img/thumb_robosnake.jpg",
+			"name": "Robosnake",
+			"title": "",
+			"description": ""
+		},
+		{
+			"_id": "8",
+			"img": "/static/img/thumb_rockguy.jpg",
+			"name": "Rockguy",
+			"title": "",
+			"description": ""
+		},
+		{
+			"_id": "9",
+			"img": "/static/img/thumb_smileyface.jpg",
+			"name": "Smileyface",
+			"title": "",
+			"description": ""
+		},
+		{
+			"_id": "10",
+			"img": "/static/img/thumb_snappy.jpg",
+			"name": "Snappy",
+			"title": "",
+			"description": ""
+		},
+		{
+			"_id": "11",
+			"img": "/static/img/thumb_tom1.jpg",
+			"name": "Tom",
+			"title": "",
+			"description": ""
+		},
+		{
+			"_id": "12",
+			"img": "/static/img/thumb_tom2.jpg",
+			"name": "& Tom",
+			"title": "",
+			"description": ""
+		},
+		{
+			"_id": "13",
+			"img": "/static/img/thumb_unipus.jpg",
+			"name": "Unipuss",
+			"title": "",
+			"description": ""
+		},
+		{
+			"_id": "14",
+			"img": "/static/img/thumb_violet.jpg",
+			"name": "Violet",
+			"title": "",
+			"description": ""
+		}
+	],
+	"total": 14
+}

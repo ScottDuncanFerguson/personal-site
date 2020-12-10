@@ -1,0 +1,1 @@
+(self.webpackChunkscott_personal_site=self.webpackChunkscott_personal_site||[]).push([[822],{25808:s=>{"use strict";s.exports=JSON.parse('{"USERNAME":"用户名","PASSWORD":"密码","LOGIN":"登录"}')}}]);
