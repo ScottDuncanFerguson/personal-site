@@ -99,6 +99,118 @@
 			"name": "Violet",
 			"title": "",
 			"description": ""
+		},
+		{
+			"_id": "15",
+			"img": "/static/img/thumb_patches.jpg",
+			"name": "Patches",
+			"title": "",
+			"description": ""
+		},
+		{
+			"_id": "16",
+			"img": "/static/img/thumb_babypam.jpg",
+			"name": "Baby Pam",
+			"title": "",
+			"description": ""
+		},
+		{
+			"_id": "17",
+			"img": "/static/img/thumb_hermione.jpg",
+			"name": "Hermione",
+			"title": "",
+			"description": ""
+		},
+		{
+			"_id": "18",
+			"img": "/static/img/thumb_patio.jpg",
+			"name": "Patio",
+			"title": "",
+			"description": ""
+		},
+		{
+			"_id": "19",
+			"img": "/static/img/thumb_satio.jpg",
+			"name": "Satio",
+			"title": "",
+			"description": ""
+		},
+		{
+			"_id": "20",
+			"img": "/static/img/thumb_sapphire.jpg",
+			"name": "Sapphire",
+			"title": "",
+			"description": ""
+		},
+		{
+			"_id": "21",
+			"img": "/static/img/thumb_swingermonkey.jpg",
+			"name": "Swinger Monkey",
+			"title": "",
+			"description": ""
+		},
+		{
+			"_id": "22",
+			"img": "/static/img/thumb_scottdino.jpg",
+			"name": "Scott Dino",
+			"title": "",
+			"description": ""
+		},
+		{
+			"_id": "23",
+			"img": "/static/img/thumb_queenofthesea.jpg",
+			"name": "Queen of the Sea",
+			"title": "",
+			"description": ""
+		},
+		{
+			"_id": "24",
+			"img": "/static/img/thumb_thessa.jpg",
+			"name": "Thessa",
+			"title": "",
+			"description": ""
+		},
+		{
+			"_id": "25",
+			"img": "/static/img/thumb_snappy.jpg",
+			"name": "Snappy",
+			"title": "",
+			"description": ""
+		},
+		{
+			"_id": "26",
+			"img": "/static/img/thumb_wally.jpg",
+			"name": "Wally",
+			"title": "",
+			"description": ""
+		},
+		{
+			"_id": "27",
+			"img": "/static/img/thumb_snowy.jpg",
+			"name": "Snowy",
+			"title": "",
+			"description": ""
+		},
+		{
+			"_id": "28",
+			"img": "/static/img/thumb_donkadonis.jpg",
+			"name": "Don Ka-Donis",
+			"title": "",
+			"description": ""
+		},
+		{
+			"_id": "29",
+			"img": "/static/img/thumb_firefrog.jpg",
+			"name": "Fire Frog",
+			"title": "",
+			"description": ""
+		},
+		{
+			"_id": "30",
+			"img": "/static/img/thumb_frogs.jpg",
+			"name": "Super Strong Frog (green), Water Frog (yellow), Magic Frog (small)",
+			"title": "",
+			"description": ""
 		}
 	],
 	"total": 14
